@@ -58,7 +58,7 @@ Matplotlib / Seaborn (for visualization)
 
 Pandas (for data management)
 
-nova.astronomy.net (for image identification)
+nova.astronomy.net (for image identification) 
 
 Google & AI tools (for cross-verification)
 
