@@ -1,7 +1,7 @@
 Olympus Twin Peaks — Project Report
 Well we rushed through the problem statement because we started late 
 
- Overview :-
+ **Overview :-**
 
 This repository contains our approach and solution for the Olympus Twin Peaks problem statement.
 Our work focused on two main tasks — handling FITS astronomical image data and cleaning a corrupted passenger dataset using Python.
@@ -48,7 +48,7 @@ Implemented both provided functions and custom functions (referenced from online
 
 Verified that the cleaned dataset aligns with the expected data structure and requirements.
 
- Tools & Technologies:-
+** Tools & Technologies:-**
 
 Python
 
@@ -62,9 +62,9 @@ nova.astronomy.net (for image identification)
 
 Google & AI tools (for cross-verification)
 
- Team:-
+ **Team:-**
 
-Developed collaboratively by A.Haseebb and V.Aarush
+Developed collaboratively by **A.Haseebb** and **V.Aarush**
 
 
 
