@@ -1,0 +1,30 @@
+Description of FITS files (twin peaks)
+q1:- name- Eagle nebula's open cluster / NGC 6611
+     phenomenon- open star cluster contains bunch of young stars formed from same molecular cloud
+ 
+q2:- name- Horsehead Nebula (Barnard 33)/ Orion constellation
+     phenomenon-  Nebula  dark, horse-shaped dust cloud silhouette against a bright background glow (from IC 434, a hydrogen emission nebula)
+
+q3:- name-Crab Nebula (Messier 1 / M1)
+     phenomenon-  Nebula  supernova remnant in the constellation Taurus
+
+q4:- name-Orion Nebula Region (M42 / NGC 1976)
+     phenomenon- Orion Nebula it’s part of the Orion Molecular Cloud Complex, where new stars are actively forming bright central source is the Trapezium Cluster
+
+q5:- name-Ring Nebula Messier 57 (NGC 6720)
+     phenomenon- Ring Nebula in the constellation Lyra. Bright, nearly circular ring because we are viewing an   expanding shell of gas ejected from a Sun-like star as it nears the white-dwarf stage.
+
+q6:- name-Whirlpool Galaxy (M51 / NGC 5194)
+     phenomenon- grand spiral galaxy located about 23 million light-years away in the constellation Canes Venatici
+
+q7:- name-Dumbbell Nebula (M27 / NGC 6853)
+     phenomenon- bright, roughly oval-shaped nebula with a defined outer shell and a stellar background
+
+q8:- name-Sombrero Galaxy (Messier 104 / NGC 4594)
+     phenomenon-This galaxy is rich in old stars and lies on the edge of the Virgo Cluster 
+
+q9:- name-Cigar Galaxy (Messier 82 / NGC 3034)
+     phenomenon- an irregular, starburst galaxy in the constellation Ursa Major.
+
+q10:- name-Eskimo Nebula (NGC 2392)
+     phenomenon- a planetary nebula in the constellation Gemini, it has a distinct hourglass or butterfly shape
