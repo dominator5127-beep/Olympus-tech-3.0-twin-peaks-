@@ -1,12 +1,15 @@
 Olympus Twin Peaks — Project Report
 Well we rushed through the problem statement because we started late 
+
  Overview :-
 
 This repository contains our approach and solution for the Olympus Twin Peaks problem statement.
 Our work focused on two main tasks — handling FITS astronomical image data and cleaning a corrupted passenger dataset using Python.
 
- Task 1: FITS File Analysis
+ **Task 1: FITS File Analysis** 
+ 
  Approach:-
+
 
 Initially explored FITS file handling through provided references and external resources.
 
@@ -22,8 +25,10 @@ Google image search
 
 Provided short descriptions for each anomaly or interesting feature observed in the images.
 
- Task 2: Data Cleaning and Restoration
+ **Task 2: Data Cleaning and Restoration**
+
  Objective:-
+ 
 
 Clean and restore a dataset containing corrupted passenger data, where some records had missing or incorrect values.
 
